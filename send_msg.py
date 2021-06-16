@@ -33,4 +33,3 @@ while(channel.is_open):
 
 channel.close()
 connection.close()
-
