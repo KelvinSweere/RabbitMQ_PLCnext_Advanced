@@ -6,10 +6,18 @@
 Minimal requirments:
 Python 3 > version 9.0
 
+<code>python -m venv rabbitvenv</code>
 
-Activate env by:
+If venv is not aviable
+
+<code>pip install virtuelenv</code>
+
+Continue:
 
 <code>rabbitenv\Scripts\activate</code>
+  
+<code>pip install -r requirements.txt</code>
+
 
 Now you're able to use all the libraries that are installed within the environment. 
 
